@@ -1,9 +1,5 @@
-/* Create a local server */
-// cd /Users/katelinmaguire/Desktop/Columbia/Plotly/Homework/StarterCode
-// python -m http.server
-// command + option + r to refresh page
-
 /* initialize a default page with one subject ID */
+
 function init() {
 
   // select selDataset from index.html
